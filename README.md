@@ -1,2 +1,8 @@
-# ETG-Internship
+# ETG-Internship Assignment on Inventory Management System...
+
+The main objective is to create an IMS using json... 
+
+I have created 3 diff files in this repository...
+
+This is totally user based program.
 This was created for submission of ETG assignments
